@@ -35,7 +35,6 @@
       - [Support Vector Machines](#SVM)
       - [Deep Learning / Artificial Neural Networks](#deeplearning)
       - [Language Models (NLP)](#NLP)
-          - 
    2. [Unsupervised Learning](#unsupervisedlearning)
       - [K-Means Clustering](#kmeans)
       - [Principle Component Analysis](#pca)
